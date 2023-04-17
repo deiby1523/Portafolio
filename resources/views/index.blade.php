@@ -609,7 +609,7 @@ $hola = "hola";
 <script src="{{ asset('js/material-kit.min.js?v=3.0.2') }}" type="text/javascript"></script>
 
 
-
+<script src="{{ asset('js/funciones.js') }}" type="text/javascript"></script>
 
 
 </body>
